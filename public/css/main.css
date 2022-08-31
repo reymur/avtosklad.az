@@ -79,3 +79,12 @@ body {
     background-color: #f1f1f1;
     padding: 20px;
 }
+
+.buy__partials-title {
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    color: #212c3a;
+    font-weight: 700;
+    text-transform: uppercase;
+}

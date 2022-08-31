@@ -1,6 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
+    <!--Main Section-->
+    @include('sections.main_section')
+
+    <!--Search More section-->
+    @include('sections.search_more')
 
     <div class="container-xl container-lg all__cars-bg-color">
         @if( isset($all_cars) && count($all_cars) > 0 )
