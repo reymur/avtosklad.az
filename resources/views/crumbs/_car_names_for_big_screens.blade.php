@@ -12,7 +12,7 @@
             @endforeach
         </div>
         <div class="mt-2">
-            <a href="/all-cars" class="show__all-text">Hamısını göstər</a>
+            <a href="" class="show__all-text">Hamısını göstər</a>
         </div>
     @else
         @if( isset($car_names) && count($car_names) > 0 )

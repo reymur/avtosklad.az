@@ -13,7 +13,7 @@
 
         <search-more></search-more>
 
-        <div class="col-1 m-auto">  
+        <div class="col-1 m-auto">
             <a class="text-decoration-none text-danger d-table m-auto px-3" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
                 <div class="d-flex justify-content-end mt-lg-3 mt-lg-3 mt-md-0 mt-sm-0" style="letter-spacing: 1px; font-size: 16px; color: #ca1016;">
                     <svg xmlns="http://www.w3.org/2000/svg"

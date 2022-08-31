@@ -68,3 +68,14 @@ body {
 .car__names-bg-color {
     background-color: #f1f1f1;
 }
+
+.show__all-text {
+    letter-spacing: 1px;
+    font-size: 16px;
+    color: rgb(41 111 239);
+}
+
+.all__cars-bg-color {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
